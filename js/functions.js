@@ -1,0 +1,1 @@
+/* tänna javascript-functiot ym */
